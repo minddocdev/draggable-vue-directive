@@ -7,6 +7,7 @@ var __assign = (this && this.__assign) || Object.assign || function(t) {
     }
     return t;
 };
+Object.defineProperty(exports, "__esModule", { value: true });
 function extractHandle(handle) {
     return handle && handle.$el || handle;
 }
@@ -116,3 +117,4 @@ exports.Draggable = {
         }
     }
 };
+//# sourceMappingURL=draggable.js.map
